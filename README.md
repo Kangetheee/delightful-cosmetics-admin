@@ -9,3 +9,4 @@ Currently, two official plugins are available:
 # delightful-cosmetics-back
 # delightful-cosmetics-back
 # delightful-cosmetics-backend
+# delightful-cosmetics-backend
