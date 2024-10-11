@@ -9,7 +9,7 @@ import 'react-toastify/dist/ReactToastify.css'
 
 
 export default function App(){
-  const url = "http://localhost:4000"
+  const url = "https://delight-api-odzw.onrender.com"
   return(
     <BrowserRouter>
     <ToastContainer />
